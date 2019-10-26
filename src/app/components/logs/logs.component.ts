@@ -9,7 +9,8 @@ export class LogsComponent implements OnInit {
 
   logs: {
     id: string,
-    text: string
+    text: string, 
+    date: any
   }
 
 
