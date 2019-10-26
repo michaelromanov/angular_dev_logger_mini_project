@@ -18,7 +18,7 @@ export class LogsComponent implements OnInit {
 
   ngOnInit() {
     this.logs = [
-      
+      {id: '1'}
     ]
   }
 
