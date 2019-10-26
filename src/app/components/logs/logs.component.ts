@@ -18,7 +18,7 @@ export class LogsComponent implements OnInit {
 
   ngOnInit() {
     this.logs = [
-      {id: '1'}
+      {id: '1', text: 'Generated components', date: new Date('12/26/2017 12: 54:23')}
     ]
   }
 
