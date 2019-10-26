@@ -11,12 +11,15 @@ export class LogsComponent implements OnInit {
     id: string,
     text: string, 
     date: any
-  }
+  }[];
 
 
   constructor() { }
 
   ngOnInit() {
+    this.logs = [
+      
+    ]
   }
 
 }
