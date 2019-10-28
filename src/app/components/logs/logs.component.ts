@@ -22,6 +22,7 @@ export class LogsComponent implements OnInit {
       {id: '2', text: 'Generated components', date: new Date('12/26/2017 12: 54:23')}, 
       {id: '3', text: 'Generated components', date: new Date('12/26/2017 12: 54:23')}, 
     ]
+    
   }
 
 }
